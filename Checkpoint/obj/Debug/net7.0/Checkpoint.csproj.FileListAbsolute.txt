@@ -1,0 +1,15 @@
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.csproj.AssemblyReference.cache
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.AssemblyInfoInputs.cache
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.AssemblyInfo.cs
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.csproj.CoreCompileInputs.cache
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\bin\Debug\net7.0\Checkpoint.exe
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\bin\Debug\net7.0\Checkpoint.deps.json
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\bin\Debug\net7.0\Checkpoint.runtimeconfig.json
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\bin\Debug\net7.0\Checkpoint.dll
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\bin\Debug\net7.0\Checkpoint.pdb
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.dll
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\refint\Checkpoint.dll
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.pdb
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\Checkpoint.genruntimeconfig.cache
+C:\Users\kamilla.rodrigues\source\repos\Checkpoint\Checkpoint\obj\Debug\net7.0\ref\Checkpoint.dll
